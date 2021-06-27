@@ -1,0 +1,93 @@
+/* header */
+.header{
+  width: 900px;
+  margin: auto;
+}
+
+.header h1{
+  background-color: #000;
+  font-weight: normal;
+  padding: 6px 20px;
+  font-size: 12px;
+  color: #fff;
+}
+
+/* gnavi */
+.gnavi{
+  padding-top: 20px;
+  padding-right: 50px;
+  text-align: right;
+}
+
+.gnavi li{
+  border-left: 1px solid #39569a;
+  display: inline-block;
+  margin-bottom: 60px; 
+  padding-left: 18px;
+  margin-left: 16px;
+}
+
+.gnavi .border-none{
+  border-left: none;
+}
+
+.gnavi a{
+  text-decoration: none;
+  color: #39569a;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.gnavi a:hover{
+  text-decoration: underline;
+}
+/* //gnavi */
+/* //header */
+
+/* main */
+/* sec */
+.sec{
+  width: 700px;
+  margin: auto;
+}
+
+.sec h2{
+  margin-bottom: 20px;
+  font-weight: normal;
+  text-align: center;
+  font-size: 30px;
+  color: #333;
+}
+
+.sec h2 span{
+  border-bottom: 1px solid #000;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.sec div{
+  margin-bottom: 18px;
+}
+
+.sec p{
+  margin-bottom: 60px;
+  font-size: 14px;
+}
+/* //sec */
+/* //main */
+
+/* footer */
+.footer{
+  background-color: #000;
+  text-align: center;
+  padding: 40px;
+}
+
+.footer div{
+  margin-bottom: 40px;
+}
+
+.footer p{
+  color: #fff;
+}
+/* //footer */
